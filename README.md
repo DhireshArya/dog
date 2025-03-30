@@ -1,2 +1,2 @@
 # intro about my dog
-My dog is an animal
+My dog is an animal.
